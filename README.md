@@ -1,8 +1,15 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1c2d4a,100:1a3a5c&height=220&section=header&text=Darwin%20Aveiga&fontSize=58&fontColor=e6edf3&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%26%20Solutions%20Architect&descAlignY=62&descSize=18&descColor=58a6ff)
+# Darwin Aveiga
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Founder+%40+Abacore+S.A.S.;Full-Stack+Development+%7C+React+%2B+Node.js+%2B+Python;DevOps+%7C+Docker+%7C+CI%2FCD+%7C+Cloud;Enterprise+Systems+Architecture;Security+Engineering+%7C+MFA+%7C+Biometrics)](https://git.io/typing-svg)
+**Software Engineer &amp; Solutions Architect**
+
+![Colombia](https://img.shields.io/badge/Colombia-FFCD00?style=flat-square&logo=googlemaps&logoColor=black)
+![Founder](https://img.shields.io/badge/Founder-Abacore%20S.A.S.-58a6ff?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Full--Stack%20%7C%20DevOps%20%7C%20Cloud-79c0ff?style=flat-square)
+![Open to work](https://img.shields.io/badge/Open%20to-Collaboration-2ea44f?style=flat-square)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Founder+%40+Abacore+S.A.S.;Full-Stack+Development+%7C+React+%2B+Node.js+%2B+Python;DevOps+%7C+Docker+%7C+CI%2FCD+%7C+Cloud;Enterprise+Systems+Architecture;Security+Engineering+%7C+MFA+%7C+Biometrics)](https://git.io/typing-svg)
 
 </div>
 
@@ -241,9 +248,9 @@ Reconocimiento académico por rendimiento sobresaliente durante el programa de i
 
 <div align="center">
 
-![Darwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joan-Mora&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&bg_color=0d1117)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Joan-Mora&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=es&ring=58a6ff&fire=79c0ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joan-Mora&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=e6edf3&bg_color=0d1117&langs_count=8)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joan-Mora&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=e6edf3&bg_color=0d1117&langs_count=8&cache_seconds=3600)](https://github.com/Joan-Mora)
 
 </div>
 
@@ -261,4 +268,7 @@ Reconocimiento académico por rendimiento sobresaliente durante el programa de i
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,100:0d1117&height=120&section=footer)
+<div align="center">
+<sub>Construyendo sistemas que perduran. Abierto a colaboración en proyectos con impacto real.</sub><br/>
+<sub><em>Building systems that last. Open to collaboration on meaningful projects.</em></sub>
+</div>
