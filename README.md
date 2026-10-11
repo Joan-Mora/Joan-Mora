@@ -242,7 +242,7 @@ Restaurante escolar con acceso biométrico (huella, rostro, voz y WebAuthn), pag
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joan-Mora&bg_color=1A1F2E&color=B0B8C8&line=C0392B&point=FFFFFF&area=true&area_color=C0392B&title_color=FFFFFF&hide_border=true&radius=12&custom_title=Contribuciones%20recientes" alt="Gráfica de contribuciones de Joan-Mora" width="100%"/>
+<img src="https://ghchart.rshah.org/C0392B/Joan-Mora" alt="Mapa de contribuciones de Joan-Mora en el último año" width="100%"/>
 
 <img src="https://streak-stats.demolab.com?user=Joan-Mora&background=1A1F2E&ring=C0392B&fire=E74C3C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E74C3C&sideLabels=B0B8C8&dates=8892A6&stroke=3A4158&hide_border=true&border_radius=12&locale=es&date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones de Joan-Mora"/>
 
