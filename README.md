@@ -1,379 +1,333 @@
 <div align="center">
 
-# Darwin Aveiga
+<img src="assets/header.svg" alt="Darwin Aveiga — Ingeniero de software y arquitecto de soluciones · Fundador de Abacore S.A.S." width="100%"/>
 
-**Software Engineer &amp; Solutions Architect**
+<br/>
 
-![Colombia](https://img.shields.io/badge/Colombia-FFCD00?style=flat-square&logo=googlemaps&logoColor=black)
-![Founder](https://img.shields.io/badge/Founder-Abacore%20S.A.S.-58a6ff?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Full--Stack%20%7C%20DevOps%20%7C%20Cloud-79c0ff?style=flat-square)
-![Open to work](https://img.shields.io/badge/Open%20to-Collaboration-2ea44f?style=flat-square)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-1A1F2E?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/573219105446)
+[![Email](https://img.shields.io/badge/darwin%40abacore.co-1A1F2E?style=for-the-badge&logo=maildotru&logoColor=E74C3C)](mailto:darwin@abacore.co)
+[![Abacore](https://img.shields.io/badge/Abacore%20S.A.S.-C0392B?style=for-the-badge&logoColor=white)](https://github.com/Joan-Mora/Abacore-S.A.S)
+![Colombia](https://img.shields.io/badge/Colombia-1A1F2E?style=for-the-badge&logo=googlemaps&logoColor=FFCD00)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Founder+%40+Abacore+S.A.S.;Full-Stack+Development+%7C+React+%2B+Node.js+%2B+Python;DevOps+%7C+Docker+%7C+CI%2FCD+%7C+Cloud;Enterprise+Systems+Architecture;Security+Engineering+%7C+MFA+%7C+Biometrics)](https://git.io/typing-svg)
+<sub>Español abajo &nbsp;·&nbsp; <a href="#english">English below</a></sub>
 
 </div>
 
----
-
-<div align="center">
-Selecciona tu idioma &nbsp;·&nbsp; Select your language
-</div>
-
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <details open>
-<summary><strong>Leer en Español</strong></summary>
+<summary><b>Leer en español</b></summary>
 
-<br>
+<br/>
 
 ## Sobre mí
 
-Soy un ingeniero de software y arquitecto de soluciones con una visión orientada a la construcción de ecosistemas tecnológicos completos. Como fundador de **Abacore S.A.S.**, mi trayectoria está definida por la capacidad de convertir requerimientos de negocio complejos en arquitecturas de software robustas, escalables y seguras — abarcando desde el desarrollo web y móvil hasta aplicaciones nativas de escritorio.
+Soy ingeniero de software y fundador de **Abacore S.A.S.** Diseño y construyo sistemas completos: el modelo de datos, la API, la interfaz, el despliegue y lo que pasa después, cuando el sistema ya está en manos de gente real.
 
-Mi enfoque no se limita a escribir código; implica entender el negocio, diseñar la solución correcta, implementarla con estándares de calidad y asegurar que el sistema sea mantenible a largo plazo. Cada proyecto que tomo involucra una selección deliberada del stack tecnológico adecuado, sin dogmatismos, priorizando siempre la idoneidad técnica frente a la popularidad de una herramienta.
+En el último año mi trabajo pasó de los proyectos de clase a software que se usa todos los días. **AVTech** es la plataforma con la que Avellano atiende a sus clientes por WhatsApp, gestiona domicilios y compras y opera su portal de empleados. **Ludoteka Campus** es el campus virtual gamificado de un colegio, con passkeys, acceso facial y un tutor con IA. En paralelo desarrollo **NullBorn**, un action-RPG en Unity que es mi tesis de grado, y herramientas en tiempo real para el aula.
 
-Poseo experiencia en todas las capas del desarrollo: desde el diseño de interfaces interactivas con **React y TypeScript**, hasta la construcción de sistemas de backend escalables con **Node.js, Python/Django y Java**. Mi capacidad para gestionar infraestructura y despliegue mediante **Docker, CI/CD y plataformas cloud** me permite entregar software que no solo funciona, sino que perdura.
+<div align="center">
+<img src="assets/terminal-es.svg" alt="Terminal: whoami, stack y proyectos de Darwin Aveiga" width="88%"/>
+</div>
 
-## Mi empresa — Abacore S.A.S.
+## En qué soy fuerte
 
-Abacore S.A.S. es el vehículo a través del cual materializo soluciones tecnológicas para empresas. Bajo esta firma, he liderado proyectos de transformación digital para clientes corporativos, diseñando e implementando sistemas a medida que integran múltiples capas: lógica de negocio, persistencia de datos, interfaces de usuario, seguridad, automatización e integraciones con servicios de terceros.
+| Área | Lo que he construido |
+|---|---|
+| **Plataformas empresariales** | Sistemas modulares con roles y permisos, reportes PDF y Excel, flujos de aprobación e integraciones con WhatsApp Business, OpenPay, Google Maps, Resend, Cloudinary y Stripe. |
+| **Tiempo real** | CRM multiagente con WebSockets, partidas en vivo para salones de clase con Socket.IO y Firebase, sincronización Unity ↔ web con SignalR. |
+| **Seguridad y biometría** | Passkeys (WebAuthn), acceso facial con prueba de vida, plantillas cifradas con AES-256-GCM, JWT con refresh rotativo, RBAC y cumplimiento de la Ley 1581 de datos personales. |
+| **IA aplicada** | Bot de WhatsApp con function calling, tutor que cita los documentos del curso y preguntas en español convertidas a SQL de solo lectura. |
+| **3D y videojuegos** | Gemelos digitales con React Three Fiber y Three.js; un action-RPG en Unity 6 + URP. |
+| **Arquitectura y operación** | Monolitos modulares, monorepos, Docker, despliegues en Render y pruebas end-to-end con Playwright. |
 
-El trabajo bajo Abacore no se limita al desarrollo — incluye la gestión de proyectos, la presentación profesional de soluciones ante entornos corporativos y el liderazgo de equipos técnicos, lo que me otorga una visión completa del ciclo de vida del software.
-
-## Mi filosofía
-
-El software no es un producto final; es un sistema vivo que debe adaptarse, crecer y resistir el tiempo. Construyo con ese principio en mente.
-
-Cada arquitectura que diseño se sostiene sobre tres pilares no negociables: **confiabilidad**, para que el sistema funcione cuando más importa; **seguridad**, porque la confianza no es opcional en ningún negocio; y **claridad**, porque el código que no puede entenderse no puede mantenerse ni evolucionarse.
-
-Me encuentro igualmente cómodo en una sesión de diseño arquitectónico, en una revisión de código profunda o en una presentación ante un cliente corporativo. Esa amplitud — desde la profundidad técnica de la implementación hasta el encuadre estratégico de una solución — es lo que me permite llevar proyectos del concepto a la producción con consistencia y rigor.
-
-## Stack Tecnológico
+## Proyectos
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-**Frontend**
+### AVTech &nbsp;![privado](https://img.shields.io/badge/repo%20privado-propiedad%20de%20Avellano-3A4158?style=flat-square)
+Plataforma empresarial de **Avellano**: bot de WhatsApp con IA o menús, CRM multiagente, comercio y domicilios con mapas, portal de RRHH con passkeys, tickets operativos, compras y pagos con OpenPay. Desarrollada con Julian Chavez.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+El código es de la empresa, por eso el repositorio es privado.
 
-</td>
-<td valign="top" width="33%">
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=flat-square&logo=openjdk&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1A1F2E?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Fastify](https://img.shields.io/badge/Fastify-1A1F2E?style=flat-square&logo=fastify&logoColor=white)
+![React](https://img.shields.io/badge/React-1A1F2E?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1F2E?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-1A1F2E?style=flat-square&logo=redis&logoColor=DC382D)
 
 </td>
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-**Infraestructura y DevOps**
+### [Ludoteka Campus](https://github.com/Joan-Mora/ludoteka-campus)
+Campus virtual gamificado del Colegio Francisco Arango: aulas, evaluaciones, libro de calificaciones, misiones y arena por equipos, tutor con IA, passkeys y acceso facial. **En producción.**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Deploy-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+[Ver en vivo](https://ludoteka-campus.onrender.com)
+
+![NestJS](https://img.shields.io/badge/NestJS-1A1F2E?style=flat-square&logo=nestjs&logoColor=E0234E)
+![React](https://img.shields.io/badge/React-1A1F2E?style=flat-square&logo=react&logoColor=61DAFB)
+![CockroachDB](https://img.shields.io/badge/CockroachDB-1A1F2E?style=flat-square&logo=cockroachlabs&logoColor=6933FF)
+![Playwright](https://img.shields.io/badge/Playwright-1A1F2E?style=flat-square&logo=playwright&logoColor=2EAD33)
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-**Seguridad**
+### [NullBorn](https://github.com/Joan-Mora/NullBorn)
+Action-RPG educativo donde el mundo se comporta como software. Tesis de grado con Julian Chavez: cliente Unity 6 + URP y un companion ASP.NET con mapa táctico en el teléfono.
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![MFA](https://img.shields.io/badge/MFA-FF6B35?style=flat-square&logo=authy&logoColor=white)
-![Biometrics](https://img.shields.io/badge/Biometría-2ECC71?style=flat-square)
-
-</td>
-<td valign="top">
-
-**Integraciones**
-
-![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![OpenPay](https://img.shields.io/badge/OpenPay-003087?style=flat-square)
+![Unity](https://img.shields.io/badge/Unity%206-1A1F2E?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1A1F2E?style=flat-square&logo=dotnet&logoColor=512BD4)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1F2E?style=flat-square&logo=postgresql&logoColor=4169E1)
 
 </td>
 <td valign="top">
 
-**Herramientas**
+### [El Campus También Se Daña](https://github.com/Joan-Mora/campus-incidencias)
+Reporte y atención de daños en el campus con gemelo digital 3D, prioridad ponderada, SLA con escalamiento y detección de reportes duplicados.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-1A1F2E?style=flat-square&logo=fastify&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-1A1F2E?style=flat-square&logo=prisma&logoColor=white)
+![Three.js](https://img.shields.io/badge/React%20Three%20Fiber-1A1F2E?style=flat-square&logo=threedotjs&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### [HYEDA](https://github.com/Joan-Mora/HYEDA)
+Gestión de alquiler de herramientas y maquinaria para un negocio de Granada (Meta): alquileres, cartera, inventario, caja y documentos en PDF.
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1A1F2E?style=flat-square&logo=springboot&logoColor=6DB33F)
+![React](https://img.shields.io/badge/React-1A1F2E?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1F2E?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+</td>
+<td valign="top">
+
+### [ROSE Technology](https://github.com/Joan-Mora/RoseTech)
+Sitio corporativo para un centro de reparación con sedes en Villavicencio, Bogotá y Cali: nueve idiomas, mapas de cobertura y formulario de contacto con correo.
+
+![React](https://img.shields.io/badge/React-1A1F2E?style=flat-square&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-1A1F2E?style=flat-square&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1A1F2E?style=flat-square&logo=docker&logoColor=2496ED)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### [Blazon](https://github.com/Joan-Mora/blazon)
+SaaS multi-tenant para organizaciones de esports: sitios públicos con su propia identidad, torneos, reclutamiento y suscripciones.
+
+![Next.js](https://img.shields.io/badge/Next.js-1A1F2E?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-1A1F2E?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Stripe](https://img.shields.io/badge/Stripe-1A1F2E?style=flat-square&logo=stripe&logoColor=635BFF)
+
+</td>
+<td valign="top">
+
+### [TimeQuest](https://github.com/Joan-Mora/TimeQuest)
+Escape room estadístico en tiempo real para la clase de Análisis Cuantitativo de Datos: equipos, retos, pistas y tablero para el proyector.
+
+![Node.js](https://img.shields.io/badge/Node.js-1A1F2E?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-1A1F2E?style=flat-square&logo=socketdotio&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### [AveFlix Live](https://github.com/Joan-Mora/AveFlix)
+Capacitación corporativa tipo trivia en vivo para Avellano: el facilitador proyecta y los operarios responden desde el celular.
+
+![React](https://img.shields.io/badge/React-1A1F2E?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-1A1F2E?style=flat-square&logo=firebase&logoColor=FFCA28)
+
+</td>
+<td valign="top">
+
+### [EduFeed](https://github.com/Joan-Mora/EduFeed)
+Restaurante escolar con acceso biométrico (huella, rostro, voz y WebAuthn), pagos y reportes. Con Julian Chavez.
+
+![Java](https://img.shields.io/badge/Java-1A1F2E?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1A1F2E?style=flat-square&logo=springboot&logoColor=6DB33F)
+![JavaFX](https://img.shields.io/badge/JavaFX-1A1F2E?style=flat-square&logo=openjdk&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-## Proyectos Destacados
+**Más proyectos:** [EduVault](https://github.com/Joan-Mora/EduVault) (Django) · [MediLink](https://github.com/Joan-Mora/MediLink) (Java) · [Taller PDF](https://github.com/Joan-Mora/Taller-PDF) (Java + PDFBox) · [Sitio de Abacore](https://github.com/Joan-Mora/Abacore-S.A.S) · [Makeup Rain](https://github.com/Joan-Mora/Makeup-Pygame) (contribución)
 
-### AVTech — Plataforma Empresarial Integral
+## Stack
 
-AVTech es un sistema empresarial completo, diseñado y construido desde cero para unificar las operaciones críticas de un negocio bajo una sola plataforma coherente. La arquitectura cubre múltiples módulos interdependientes, cada uno construido para confiabilidad en producción y desarrollado para **Avellano S.A.S.**
+<table>
+<tr><td><b>Frontend</b></td><td>
 
-El proyecto representa uno de los desarrollos más complejos de mi trayectoria: desde la definición de la arquitectura de datos hasta la implementación de flujos de seguridad biométrica, pasando por integraciones de pagos en tiempo real y automatizaciones de comunicación mediante bots de WhatsApp.
+![React](https://img.shields.io/badge/React-1A1F2E?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-1A1F2E?style=flat-square&logo=typescript&logoColor=3178C6)
+![Next.js](https://img.shields.io/badge/Next.js-1A1F2E?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-1A1F2E?style=flat-square&logo=vite&logoColor=646CFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-1A1F2E?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-1A1F2E?style=flat-square&logo=reactquery&logoColor=FF4154)
+![Three.js](https://img.shields.io/badge/Three.js-1A1F2E?style=flat-square&logo=threedotjs&logoColor=white)
 
-| Módulo | Descripción |
-|---|---|
-| Logística y Domicilios | Seguimiento de pedidos en tiempo real con integración de Google Maps y asignación de rutas |
-| Control de Acceso | Autenticación biométrica, lectura QR y gestión completa de visitantes |
-| Gestión de Inventarios | Control de stock, ciclo de vida de productos y coordinación con proveedores |
-| Facturación y Pagos | Generación de facturas, integración OpenPay (PSE, tarjeta, QR) |
-| Notificaciones | Bot de WhatsApp Business API y alertas en tiempo real con WebSockets |
-| Seguridad | MFA, control de acceso basado en roles (RBAC), sesiones y cifrado de datos sensibles |
+</td></tr>
+<tr><td><b>Backend</b></td><td>
 
-**Stack:** React · TypeScript · Node.js · PostgreSQL · Docker · WebSockets · WhatsApp Business API · Google Maps API · OpenPay
+![Node.js](https://img.shields.io/badge/Node.js-1A1F2E?style=flat-square&logo=nodedotjs&logoColor=339933)
+![NestJS](https://img.shields.io/badge/NestJS-1A1F2E?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Fastify](https://img.shields.io/badge/Fastify-1A1F2E?style=flat-square&logo=fastify&logoColor=white)
+![Express](https://img.shields.io/badge/Express-1A1F2E?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1A1F2E?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Django](https://img.shields.io/badge/Django-1A1F2E?style=flat-square&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-1A1F2E?style=flat-square&logo=dotnet&logoColor=512BD4)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-1A1F2E?style=flat-square&logo=socketdotio&logoColor=white)
 
----
+</td></tr>
+<tr><td><b>Datos</b></td><td>
 
-### Abacore S.A.S. — Plataforma Corporativa
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1F2E?style=flat-square&logo=postgresql&logoColor=4169E1)
+![CockroachDB](https://img.shields.io/badge/CockroachDB-1A1F2E?style=flat-square&logo=cockroachlabs&logoColor=6933FF)
+![Redis](https://img.shields.io/badge/Redis-1A1F2E?style=flat-square&logo=redis&logoColor=DC382D)
+![MySQL](https://img.shields.io/badge/MySQL-1A1F2E?style=flat-square&logo=mysql&logoColor=4479A1)
+![Prisma](https://img.shields.io/badge/Prisma-1A1F2E?style=flat-square&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-1A1F2E?style=flat-square&logo=firebase&logoColor=FFCA28)
 
-Plataforma digital de cara al cliente para la firma de desarrollo de software que fundé. Construida para comunicar las capacidades de ingeniería de la empresa y acompañar el proceso de desarrollo comercial mediante una interfaz limpia y orientada a la conversión. Refleja la identidad técnica de Abacore y actúa como punto de contacto profesional para clientes potenciales.
+</td></tr>
+<tr><td><b>Infraestructura</b></td><td>
 
-**Stack:** HTML5 · CSS3 · JavaScript · Node.js
+![Docker](https://img.shields.io/badge/Docker-1A1F2E?style=flat-square&logo=docker&logoColor=2496ED)
+![Render](https://img.shields.io/badge/Render-1A1F2E?style=flat-square&logo=render&logoColor=46E3B7)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-1A1F2E?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Linux](https://img.shields.io/badge/Linux-1A1F2E?style=flat-square&logo=linux&logoColor=FCC624)
+![Playwright](https://img.shields.io/badge/Playwright-1A1F2E?style=flat-square&logo=playwright&logoColor=2EAD33)
 
----
+</td></tr>
+<tr><td><b>Juegos y 3D</b></td><td>
 
-### Aplicaciones de Escritorio Nativas
+![Unity](https://img.shields.io/badge/Unity-1A1F2E?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1A1F2E?style=flat-square&logo=dotnet&logoColor=512BD4)
+![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-1A1F2E?style=flat-square&logo=threedotjs&logoColor=white)
 
-Desarrollo de aplicaciones de escritorio autónomas con **JavaFX** y backends **MySQL**, incluyendo pipelines de despliegue automatizado mediante scripting avanzado. Estos proyectos apuntaron a entornos donde la entrega web no era viable, requiriendo capacidad offline completa e integración nativa con el sistema operativo. Se implementaron además instaladores automáticos y rutinas de actualización silenciosa.
+</td></tr>
+<tr><td><b>Integraciones</b></td><td>
 
-**Stack:** Java · JavaFX · MySQL · Shell Scripting
+![WhatsApp](https://img.shields.io/badge/WhatsApp%20Business-1A1F2E?style=flat-square&logo=whatsapp&logoColor=25D366)
+![OpenAI](https://img.shields.io/badge/OpenAI-1A1F2E?style=flat-square&logo=openai&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-1A1F2E?style=flat-square&logo=stripe&logoColor=635BFF)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-1A1F2E?style=flat-square&logo=googlemaps&logoColor=4285F4)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-1A1F2E?style=flat-square&logo=cloudinary&logoColor=3448C5)
+![OpenPay](https://img.shields.io/badge/OpenPay-1A1F2E?style=flat-square)
 
-## Áreas de Competencia
+</td></tr>
+</table>
 
-```
-Arquitectura de Software       Diseño de sistemas escalables con separación clara de responsabilidades
-Full-Stack Development         Ownership completo desde el esquema de base de datos hasta la UI
-DevOps y Despliegue            Contenedores, pipelines CI/CD e infraestructura cloud
-Ingeniería de Seguridad        MFA, biometría, autenticación basada en tokens y cifrado de datos
-Integración de APIs            Pasarelas de pago, plataformas de mensajería, servicios de mapas
-Calidad y Rendimiento          Pruebas de carga, validaciones de seguridad y documentación técnica
-Gestión de Proyectos           Levantamiento de requerimientos, coordinación de equipo, presentación corporativa
-```
+## Cómo trabajo
 
-## Formación Académica
+- Empiezo por el problema del negocio y por quién va a usar el sistema; la tecnología se elige después.
+- Separo el dominio en módulos con fronteras claras, para que el sistema pueda crecer sin reescribirse.
+- La seguridad va desde el primer día: autenticación fuerte, permisos por rol, secretos fuera del código y datos personales tratados según la ley.
+- Documento lo que construyo y dejo pruebas para lo que importa, porque alguien más va a mantenerlo.
 
-**Ingeniería de Software**
-Corporación Universitaria Minuto de Dios — UNIMINUTO · Colombia
+## Formación
 
-Reconocimiento académico por rendimiento sobresaliente durante el programa de ingeniería.
+**Ingeniería de Software** · Corporación Universitaria Minuto de Dios (UNIMINUTO), Colombia. Reconocimiento académico por rendimiento sobresaliente.
 
-## Estadísticas de GitHub
+## Actividad
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Joan-Mora&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=es&ring=58a6ff&fire=79c0ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joan-Mora&bg_color=1A1F2E&color=B0B8C8&line=C0392B&point=FFFFFF&area=true&area_color=C0392B&title_color=FFFFFF&hide_border=true&radius=12&custom_title=Contribuciones%20recientes" alt="Gráfica de contribuciones de Joan-Mora" width="100%"/>
+
+<img src="https://streak-stats.demolab.com?user=Joan-Mora&background=1A1F2E&ring=C0392B&fire=E74C3C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E74C3C&sideLabels=B0B8C8&dates=8892A6&stroke=3A4158&hide_border=true&border_radius=12&locale=es&date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones de Joan-Mora"/>
 
 </div>
+
+## Sobre mi código
+
+Mis repositorios son públicos para que puedas ver cómo trabajo. El código está protegido: **todos los derechos reservados**. Puedes leerlo y revisarlo, pero no copiarlo, reutilizarlo ni presentarlo como propio sin mi permiso. Si te interesa usar algo, escríbeme y lo hablamos.
 
 ## Contacto
 
-<div align="center">
+¿Tienes un proyecto o una vacante en la que encaje? Escríbeme a **[darwin@abacore.co](mailto:darwin@abacore.co)** o por **[WhatsApp](https://wa.me/573219105446)**.
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573219105446)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joan-Mora)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darwin@abacore.co)
-
-</div>
-
-<br>
 </details>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<a id="english"></a>
 
 <details>
-<summary><strong>Read in English</strong></summary>
+<summary><b>Read in English</b></summary>
 
-<br>
+<br/>
 
-## About Me
+## About me
 
-I am a software engineer and solutions architect with a vision oriented toward building comprehensive technological ecosystems. As founder of **Abacore S.A.S.**, my career is defined by the ability to transform complex business requirements into robust, scalable, and secure software architectures — spanning web and mobile development through to native desktop applications.
+I'm a software engineer and the founder of **Abacore S.A.S.** I design and build complete systems: the data model, the API, the interface, the deployment, and everything that happens once real people depend on it.
 
-My approach goes beyond writing code; it involves understanding the business, designing the right solution, implementing it to quality standards, and ensuring the system remains maintainable over time. Every project I take on involves a deliberate selection of the appropriate technology stack — prioritizing technical suitability over the popularity of any given tool.
+Over the last year my work moved from class projects to software used every day. **AVTech** is the platform Avellano uses to serve customers over WhatsApp, manage deliveries and purchasing, and run its employee portal. **Ludoteka Campus** is a school's gamified virtual campus, with passkeys, face sign-in and an AI tutor. Alongside that I'm building **NullBorn**, an action RPG in Unity that is my undergraduate thesis, plus real-time tools for the classroom.
 
-I have experience across all development layers: from designing interactive interfaces with **React and TypeScript**, to building scalable backend systems with **Node.js, Python/Django, and Java**. My ability to manage infrastructure and deployment through **Docker, CI/CD, and cloud platforms** allows me to deliver software that not only works, but endures.
+<div align="center">
+<img src="assets/terminal-en.svg" alt="Terminal: whoami, stack and projects of Darwin Aveiga" width="88%"/>
+</div>
 
-## My Company — Abacore S.A.S.
+## What I'm good at
 
-Abacore S.A.S. is the vehicle through which I bring technological solutions to businesses. Under this firm, I have led digital transformation projects for corporate clients, designing and implementing custom systems that integrate multiple layers: business logic, data persistence, user interfaces, security, automation, and third-party service integrations.
-
-Work under Abacore is not limited to development — it includes project management, professional presentation of solutions in corporate environments, and leadership of technical teams, giving me a comprehensive view of the software lifecycle.
-
-## My Philosophy
-
-Software is not a final product; it is a living system that must adapt, grow, and withstand time. I build with that principle in mind.
-
-Every architecture I design rests on three non-negotiable pillars: **reliability**, so the system works when it matters most; **security**, because trust is not optional in any business; and **clarity**, because code that cannot be understood cannot be maintained or evolved.
-
-I am equally comfortable in an architectural design session, a deep code review, or a corporate client presentation. That range — from the technical depth of implementation to the strategic framing of a solution — is what allows me to take projects from concept to production with consistency and rigor.
-
-## Technical Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=flat-square&logo=openjdk&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**Infrastructure & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Deploy-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**Security**
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![MFA](https://img.shields.io/badge/MFA-FF6B35?style=flat-square&logo=authy&logoColor=white)
-![Biometrics](https://img.shields.io/badge/Biometrics-2ECC71?style=flat-square)
-
-</td>
-<td valign="top">
-
-**Integrations**
-
-![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![OpenPay](https://img.shields.io/badge/OpenPay-003087?style=flat-square)
-
-</td>
-<td valign="top">
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-## Featured Projects
-
-### AVTech — Enterprise Management Platform
-
-AVTech is a full-scale enterprise system, designed and built from the ground up to unify critical business operations under a single, cohesive platform. The architecture covers multiple interdependent modules, each built for production reliability and developed for **Avellano S.A.S.**
-
-The project represents one of the most complex developments of my career: from defining the data architecture to implementing biometric security flows, real-time payment integrations, and communication automations through WhatsApp bots.
-
-| Module | Description |
+| Area | What I've built |
 |---|---|
-| Logistics & Delivery | Real-time order tracking with Google Maps integration and route assignment |
-| Access Control | Biometric authentication, QR scanning, and full visitor management |
-| Inventory Management | Stock control, product lifecycle, and supplier coordination |
-| Billing & Payments | Invoice generation, OpenPay integration (PSE, card, QR) |
-| Notifications | WhatsApp Business API bot flows and real-time alerts via WebSockets |
-| Security | MFA, role-based access control (RBAC), session management, and data encryption |
+| **Business platforms** | Modular systems with roles and permissions, PDF and Excel reports, approval flows, and integrations with WhatsApp Business, OpenPay, Google Maps, Resend, Cloudinary and Stripe. |
+| **Real time** | A multi-agent CRM over WebSockets, live classroom games with Socket.IO and Firebase, Unity-to-web sync with SignalR. |
+| **Security and biometrics** | Passkeys (WebAuthn), face sign-in with liveness checks, AES-256-GCM encrypted templates, JWT with rotating refresh tokens, RBAC, and compliance with Colombia's data protection law (Ley 1581). |
+| **Applied AI** | A WhatsApp bot with function calling, a tutor that cites course documents, and Spanish questions translated into read-only SQL. |
+| **3D and games** | Digital twins with React Three Fiber and Three.js; an action RPG in Unity 6 + URP. |
+| **Architecture and operations** | Modular monoliths, monorepos, Docker, Render deployments and end-to-end tests with Playwright. |
 
-**Stack:** React · TypeScript · Node.js · PostgreSQL · Docker · WebSockets · WhatsApp Business API · Google Maps API · OpenPay
+## Projects
 
----
+| Project | What it is | Stack |
+|---|---|---|
+| **AVTech** (private) | Avellano's business platform: AI or menu-driven WhatsApp bot, multi-agent CRM, commerce and deliveries, HR portal with passkeys, operational tickets, purchasing, OpenPay payments. Built with Julian Chavez. The code belongs to the company, so the repository is private. | Node.js · Fastify · React · PostgreSQL · Redis |
+| [Ludoteka Campus](https://github.com/Joan-Mora/ludoteka-campus) | Gamified virtual campus for Colegio Francisco Arango. **In production:** [live site](https://ludoteka-campus.onrender.com). | NestJS · React · CockroachDB |
+| [NullBorn](https://github.com/Joan-Mora/NullBorn) | Educational action RPG where the world behaves like software. Thesis with Julian Chavez. | Unity 6 · C# · ASP.NET |
+| [El Campus También Se Daña](https://github.com/Joan-Mora/campus-incidencias) | Campus damage reporting with a 3D digital twin, weighted priority, SLA escalation and duplicate detection. | Fastify · Prisma · React Three Fiber |
+| [HYEDA](https://github.com/Joan-Mora/HYEDA) | Tool and equipment rental management for a business in Granada, Meta. | Spring Boot · React · PostgreSQL |
+| [ROSE Technology](https://github.com/Joan-Mora/RoseTech) | Corporate site in nine languages with coverage maps and a contact pipeline. | React · Express · Docker |
+| [Blazon](https://github.com/Joan-Mora/blazon) | Multi-tenant SaaS for esports organizations. | Next.js · NestJS · Stripe |
+| [TimeQuest](https://github.com/Joan-Mora/TimeQuest) | Real-time statistics escape room for the classroom. | Node.js · Socket.IO |
+| [AveFlix Live](https://github.com/Joan-Mora/AveFlix) | Live trivia-style corporate training for Avellano. | React · Firebase |
+| [EduFeed](https://github.com/Joan-Mora/EduFeed) | School cafeteria with biometric access, payments and reports. With Julian Chavez. | Java · Spring Boot · JavaFX |
 
-### Abacore S.A.S. — Corporate Platform
+**More:** [EduVault](https://github.com/Joan-Mora/EduVault) · [MediLink](https://github.com/Joan-Mora/MediLink) · [Taller PDF](https://github.com/Joan-Mora/Taller-PDF) · [Abacore website](https://github.com/Joan-Mora/Abacore-S.A.S) · [Makeup Rain](https://github.com/Joan-Mora/Makeup-Pygame) (contribution)
 
-Client-facing digital platform for the software development firm I founded. Built to communicate the company's engineering capabilities and support the business development process through a clean, conversion-focused interface. It reflects Abacore's technical identity and serves as a professional contact point for potential clients.
+## How I work
 
-**Stack:** HTML5 · CSS3 · JavaScript · Node.js
-
----
-
-### Native Desktop Applications
-
-Development of standalone desktop applications with **JavaFX** and **MySQL** backends, including automated deployment pipelines via advanced scripting. These projects targeted environments where web delivery was not viable, requiring full offline capability and native OS integration. Automatic installers and silent update routines were also implemented.
-
-**Stack:** Java · JavaFX · MySQL · Shell Scripting
-
-## Areas of Expertise
-
-```
-Software Architecture          Designing scalable systems with clear separation of concerns
-Full-Stack Development         End-to-end ownership from database schema to UI interaction
-DevOps & Deployment            Containerization, CI/CD pipelines, and cloud infrastructure
-Security Engineering           MFA, biometrics, token-based authentication, and data encryption
-API Integration                Payment gateways, messaging platforms, mapping services
-Quality & Performance          Load testing, security validation, and technical documentation
-Project Management             Requirements gathering, team coordination, corporate presentations
-```
+- I start from the business problem and the people who will use the system; the technology comes after.
+- I split the domain into modules with clear boundaries, so the system can grow without a rewrite.
+- Security starts on day one: strong authentication, role-based permissions, secrets out of the code, and personal data handled by the law.
+- I document what I build and test what matters, because someone else will maintain it.
 
 ## Education
 
-**Software Engineering**
-Corporación Universitaria Minuto de Dios — UNIMINUTO · Colombia
+**Software Engineering** · Corporación Universitaria Minuto de Dios (UNIMINUTO), Colombia. Academic recognition for outstanding performance.
 
-Academic recognition awarded for outstanding performance throughout the engineering program.
+## About my code
 
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Joan-Mora&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58a6ff&fire=79c0ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
-
-</div>
+My repositories are public so you can see how I work. The code is protected: **all rights reserved**. You're welcome to read and review it, but not to copy, reuse or present it as your own without my permission. If you'd like to use something, get in touch.
 
 ## Contact
 
-<div align="center">
+Have a project or a role I'd be a good fit for? Write to **[darwin@abacore.co](mailto:darwin@abacore.co)** or reach me on **[WhatsApp](https://wa.me/573219105446)**.
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573219105446)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joan-Mora)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darwin@abacore.co)
-
-</div>
-
-<br>
 </details>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
-<sub>Construyendo sistemas que perduran. Abierto a colaboración en proyectos con impacto real.</sub><br/>
-<sub><em>Building systems that last. Open to collaboration on meaningful projects.</em></sub>
+<sub>Construyo software que se usa en producción · I build software that runs in production</sub>
 </div>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="8" viewBox="0 0 1200 8" aria-hidden="true">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#C0392B" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#E74C3C"/>
+      <stop offset="1" stop-color="#C0392B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>.run { animation: run 4.5s ease-in-out infinite alternate; } @keyframes run { from { transform: translateX(-300px); } to { transform: translateX(1200px); } }</style>
+  <rect y="3.5" width="1200" height="1" fill="#3A4158"/>
+  <rect class="run" y="2.5" width="300" height="3" rx="1.5" fill="url(#g)"/>
+</svg>

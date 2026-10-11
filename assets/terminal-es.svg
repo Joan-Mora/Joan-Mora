@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="475" viewBox="0 0 920 475" role="img" aria-label="Terminal animada con la presentación de Darwin Aveiga">
+  <style>
+    text { font-family: 'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace; font-size: 15px; white-space: pre; }
+    .blink { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <defs>
+    <clipPath id="c0"><rect x="30" y="55" width="18.2" height="27"><animate attributeName="width" from="18.2" to="81.89999999999999" begin="0.60s" dur="0.35s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="30" y="109" width="18.2" height="27"><animate attributeName="width" from="18.2" to="145.6" begin="1.87s" dur="0.71s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c7"><rect x="30" y="244" width="18.2" height="27"><animate attributeName="width" from="18.2" to="145.6" begin="3.87s" dur="0.71s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c11"><rect x="30" y="352" width="18.2" height="27"><animate attributeName="width" from="18.2" to="136.5" begin="5.74s" dur="0.66s" fill="freeze"/></rect></clipPath>
+  </defs>
+  <rect x=".5" y=".5" width="919" height="474" rx="14" fill="#141826" stroke="#3A4158"/>
+  <path d="M.5 14.5a14 14 0 0 1 14-14h891a14 14 0 0 1 14 14v26h-919z" fill="#1F2435"/>
+  <circle cx="26" cy="21" r="6" fill="#C0392B"/><circle cx="46" cy="21" r="6" fill="#3A4158"/><circle cx="66" cy="21" r="6" fill="#3A4158"/>
+  <text x="460" y="26" text-anchor="middle" fill="#8892A6" style="font-size:13px">darwin@abacore: ~</text>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="0.60s" fill="freeze"/><text x="30" y="74" clip-path="url(#c0)"><tspan fill="#E74C3C">$</tspan><tspan fill="#FFFFFF"> whoami</tspan></text></g>
+  <text x="30" y="101" opacity="0" xml:space="preserve"><tspan fill="#FFFFFF">Darwin Aveiga</tspan><tspan fill="#8892A6"> · ingeniero de software · fundador de Abacore S.A.S.</tspan><set attributeName="opacity" to="1" begin="1.30s" fill="freeze"/></text>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="1.87s" fill="freeze"/><text x="30" y="128" clip-path="url(#c2)"><tspan fill="#E74C3C">$</tspan><tspan fill="#FFFFFF"> cat stack.yml</tspan></text></g>
+  <text x="30" y="155" opacity="0" xml:space="preserve"><tspan fill="#E74C3C">frontend  </tspan><tspan fill="#B0B8C8">React · TypeScript · Next.js · Vite · Three.js</tspan><set attributeName="opacity" to="1" begin="2.93s" fill="freeze"/></text>
+  <text x="30" y="182" opacity="0" xml:space="preserve"><tspan fill="#E74C3C">backend   </tspan><tspan fill="#B0B8C8">Node (NestJS, Fastify, Express) · Spring Boot · Django · .NET</tspan><set attributeName="opacity" to="1" begin="3.05s" fill="freeze"/></text>
+  <text x="30" y="209" opacity="0" xml:space="preserve"><tspan fill="#E74C3C">datos     </tspan><tspan fill="#B0B8C8">PostgreSQL · CockroachDB · Redis · MySQL · Prisma · Kysely</tspan><set attributeName="opacity" to="1" begin="3.17s" fill="freeze"/></text>
+  <text x="30" y="236" opacity="0" xml:space="preserve"><tspan fill="#E74C3C">infra     </tspan><tspan fill="#B0B8C8">Docker · Render · CI/CD · Linux</tspan><set attributeName="opacity" to="1" begin="3.29s" fill="freeze"/></text>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="3.87s" fill="freeze"/><text x="30" y="263" clip-path="url(#c7)"><tspan fill="#E74C3C">$</tspan><tspan fill="#FFFFFF"> ls proyectos/</tspan></text></g>
+  <text x="30" y="290" opacity="0" xml:space="preserve"><tspan fill="#B0B8C8">avtech</tspan><tspan fill="#E74C3C">*</tspan><tspan fill="#B0B8C8">  ludoteka-campus  nullborn  campus-incidencias  hyeda</tspan><set attributeName="opacity" to="1" begin="4.93s" fill="freeze"/></text>
+  <text x="30" y="317" opacity="0" xml:space="preserve"><tspan fill="#B0B8C8">rosetech  blazon  timequest  aveflix  edufeed  ...</tspan><set attributeName="opacity" to="1" begin="5.05s" fill="freeze"/></text>
+  <text x="30" y="344" opacity="0" xml:space="preserve"><tspan fill="#8892A6">* privado: propiedad de Avellano</tspan><set attributeName="opacity" to="1" begin="5.17s" fill="freeze"/></text>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="5.74s" fill="freeze"/><text x="30" y="371" clip-path="url(#c11)"><tspan fill="#E74C3C">$</tspan><tspan fill="#FFFFFF"> echo $ESTADO</tspan></text></g>
+  <text x="30" y="398" opacity="0" xml:space="preserve"><tspan fill="#FFFFFF">Abierto a proyectos y colaboraciones</tspan><set attributeName="opacity" to="1" begin="6.75s" fill="freeze"/></text>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="6.87s" fill="freeze"/><text x="30" y="425" fill="#E74C3C">$</text><rect class="blink" x="48.2" y="410" width="9" height="19" fill="#E74C3C"/></g>
+</svg>
